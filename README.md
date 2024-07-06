@@ -1,4 +1,4 @@
-# Cough Classification using Convolutional Neural Networks
+# Disease Detection Using Cough Sounds using Convolutional Neural Networks
 
 ---
 
